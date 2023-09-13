@@ -1,0 +1,13 @@
+.quotation{
+    color: #6C0287;
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 50px;
+    text-transform: uppercase;
+}
+
+.quotation__cite{
+    position: relative;
+    border-radius: 80px;
+}

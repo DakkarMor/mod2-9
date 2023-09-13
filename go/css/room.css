@@ -1,0 +1,42 @@
+.room{
+    position: relative;
+    text-align: center;
+    top: 275px;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px; /* 114.286% */
+    text-transform: uppercase;
+}
+
+.room__vibes{
+
+    width: 1180px;
+    height: 710px;
+    flex-shrink: 0;
+    background: url(../img/vibes.png), lightgray -31.053px -672.566px / 106.316% 217.051% no-repeat;
+}
+
+.room__StarWars{
+
+    width: 1180px;
+    height: 710px;
+    flex-shrink: 0;
+    background: url(../img/sw.png), lightgray -31.053px -672.566px / 106.316% 217.051% no-repeat;
+}
+
+.room__wild{
+
+    width: 1180px;
+    height: 710px;
+    flex-shrink: 0;
+    background: url(../img/ww.png), lightgray -31.053px -672.566px / 106.316% 217.051% no-repeat;
+}
+
+.room__neon{
+
+    width: 1180px;
+    height: 710px;
+    flex-shrink: 0;
+    background: url(../img/neon.png), lightgray -31.053px -672.566px / 106.316% 217.051% no-repeat;
+}
